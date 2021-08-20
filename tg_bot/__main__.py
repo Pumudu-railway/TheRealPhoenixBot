@@ -25,13 +25,13 @@ Hi {}, my name is {}!
 You can find the list of available commands with /help.
 """
 
-BOT_IMAGE = "https://telegra.ph/file/93612a540608640355f20.mp4"
+BOT_IMAGE = "https://telegra.ph/file/bf75029f82539c67664f1.mp4"
 
 HELP_STRINGS = """
-Hey there! My name is *{}*.
+Hey there! My name is *𝓚𝓾𝓶𝓲𝓴𝓸*.
 I'm a modular group management bot with a few fun extras! Have a look at the following for an idea of some of \
 the things I can help you with.
-If you have any questions on how to use me, head over to @PhoenixSupport
+If you have any questions on how to use me, head over to @KumikoSetsuko
 
 *Main* commands available:
  - /start: start the bot
@@ -48,7 +48,7 @@ And the following:
 
 DONATE_STRING = """{0} doesn't currently need any donations.
 However you can donate to the creator of the original source code which {0} \
-is based on:- [PayPal](paypal.me/PaulSonOfLars), or [Monzo](monzo.me/paulnionvestergaardlarsen).""".format(dispatcher.bot.first_name)
+is based on:- [PayPal](https://t.me/KumikoSetsuko), or [Monzo](https://t.me/KumikoSetsuko).""".format(dispatcher.bot.first_name)
 
 IMPORTED = {}
 MIGRATEABLE = []
